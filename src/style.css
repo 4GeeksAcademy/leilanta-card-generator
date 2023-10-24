@@ -1,1 +1,31 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card {
+  resize: both;
+  overflow: auto;
+}
+
+#randomCard {
+  font-size: 69pt;
+  font-family: "Times New Roman", Times, serif;
+  font-stretch: narrower;
+  margin-top: -16px;
+  margin-bottom: 0px;
+}
+
+#randomSuitFooter {
+  font-size: xx-large;
+  margin-bottom: -10%;
+  margin-right: -5%;
+  transform: rotate(180deg);
+}
+
+#randomSuit {
+  font-size: xx-large;
+  margin-top: -10%;
+  margin-left: -5%;
+}
+
+h1 {
+  font-size: 50pt;
+}
